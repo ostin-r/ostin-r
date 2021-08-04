@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ostin-r
 - 👀 I’m interested in everything Python!
-- 🌱 I’m currently learning general programming principles in python through the textbook "Beyond the Basic Stuff with Python" by Al Sweigart
+- 🌱 I’m currently learning general programming principles through Harvard's CS50 introduction to computer science course!
 - ⚡ For the future: I plan on taking a deep dive on data structures and algorithms, before moving to learning how to use common frameworks such as Django & Flask
 
 <!---
