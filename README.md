@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Austin
 - 👀 I’m interested in everything Python!
-- 🌱 I’m a self taught software engineer (currently working as a software engineer on an inventory management web application).  I gained my knowledge of the industry through "Automate the Boring Stuff with Python" by Al Sweigart, Harvard's CS50 Introduction to Computer Science Course, and The Odin Project.
+- 🌱 I’m a self-taught software engineer, currently working on an inventory management web application.  I graduated in chemical engineering and broke into the industry through a collection of online learning material including "Automate the Boring Stuff with Python" by Al Sweigart, Harvard's CS50 Introduction to Computer Science Course, and The Odin Project.
 - ⚡ Current Work: I'm working on increasing my understanding of test driven development with the free book, [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html)
+- 💪🏼 Strenghts: React, Django, and Test-Driven Development
 
 <!---
 ostin-r/ostin-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
