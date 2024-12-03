@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin
 - 👀 I’m interested in reliable, fast, and robust software!
-- ⚡ Current Work: I'm currently working on personal projects to help bridge the gap between my background in chemical engineering- these include a "lox" (toy language) interpreter, command line utilities, and a ground-up text editor
+- ⚡ Current Work: I'm currently working on personal projects to help bridge the gap between my background in chemical engineering and software engineering- these include a "lox" (toy language) interpreter, command line utilities, and a ground-up text editor
 - 🌱 When I'm not working on personal projects, I am working my day job as a software engineer optimizing in-house web applications useed for warehouse management
 
 <!---
