@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Austin
-- 👀 I’m interested in robust and user-friendly software.  I love writing Rust and Python programs.
+- 👀 I’m interested in robust and user-friendly software.  I love writing Rust and Python programs and contributing where I can.
 - ⚡ Current Work: bouncing around to whatever sounds fun to code - currently working on a basic text editor as a fun toy project :)
 
 <!---
