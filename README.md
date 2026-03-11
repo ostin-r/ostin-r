@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Austin
 - 👀 I’m interested in robust and user-friendly software.  I love writing Rust and Python programs.
-- ⚡ Current Work: A video game written using the Bevy open source engine, and a web application to optimize your grocery store runs
+- ⚡ Current Work: bouncing around to whatever sounds fun to code - currently working on a basic text editor as a fun toy project :)
 
 <!---
 ostin-r/ostin-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
